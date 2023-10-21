@@ -22,6 +22,16 @@ The basic implementation of Stacks.
 5. End
 
 ## Explaination of the Output
+- The function```Push()``` in the class Stack is used to add an element in the stack.
+- The function ```Pop()``` in the class Stacks is used to remove an Element from the stack.
+- The function ```Pop()``` in the class Stacks is used to print/see the topmost element of the stack.
+- The function ```Print()``` in the class Stacxk is used to print all the elements in the stack.
+- The Stack is empty, hence the first line outputs the stack is empty.
+- We **Push** the elements **10** and **20** into the stack and the **Print** the stack.
+- We **Pop** the element **20** and then **Print** the stack.
+- We **Push** the elements **30** and **40** and **Peek** at the topmost elemenst of the stack.
+- We **Push** the elements **50**,**60** and **70** but theres no space for **70** so we get the output as the stack is full.
+- We **Print** the stack.
 
 ## Output Screenshot
 ![Screenshot of the output](image_2023-10-21_154012032.png)
