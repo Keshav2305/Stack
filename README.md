@@ -24,4 +24,4 @@ The basic implementation of Stacks.
 ## Explaination of the Output
 
 ## Output Screenshot
-![Screenshot of the output](image)
+![Screenshot of the output](stacks_image.png)
